@@ -2,3 +2,4 @@ User-agent: *
 Disallow:
 Allow: /
 Sitemap: https://www.gallus-domesticus.com/sitemap.xml
+Sitemap: https://www.gallus-domesticus.com/blog/sitemap.xml
